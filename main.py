@@ -7,3 +7,4 @@ def welcome():
 
 print("This is Github Actions")
 welcome()
+welcome()
